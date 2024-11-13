@@ -6,10 +6,14 @@ This script is designed to extract text from all PDF files within a specified di
 ## Requirements
 
 Python 3.10+
+
 Dependencies:
+
+```
 os - For file management.
 tqdm - For displaying progress bars.
 pdfplumber - For extracting text content from PDF files.
+```
 
 ---
 
