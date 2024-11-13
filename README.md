@@ -33,7 +33,7 @@ Ensure the following directory structure, with `dataset` and `reference` folders
 ## Usage
 
 1. Run Retrieval and Evaluation:
-- - Run the script with python script.py.
+- - Run the script with `python main.py`.
 - - Results will be saved in ./dataset/preliminary/pred_retrieve.json.
 2. Customize Retrieval Parameters:
 - - Adjust chunk sizes and overlap within each bge_retrieve call based on your document structure.
