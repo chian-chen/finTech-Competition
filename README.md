@@ -7,8 +7,10 @@ This script retrieves answers from a knowledge base in finance, insurance, and F
 
 Python 3.10+
 Dependencies:
-- os, json, tqdm
-- Custom modules: Preprocess.data_preprocess, Model.retrieval
+
+```
+pip install -r requirements.txt
+```
 
 Ensure the following directory structure, with `dataset` and `reference` folders in the same path as main.py
 
