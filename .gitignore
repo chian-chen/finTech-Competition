@@ -2,3 +2,4 @@
 *.pkl
 reference/*
 dataset/*
+__pycache__/*
