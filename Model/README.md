@@ -1,7 +1,9 @@
 # Text Chunk Retrieval with BGEM3 and FAISS
 
----
+
 This code retrieves the most relevant document chunk for a given query, using a chunking strategy with the BGEM3 model, FAISS similarity search, and reranking. It is designed for handling large texts by dividing them into manageable chunks, encoding them with a pre-trained model, and efficiently searching for the most relevant pieces of text.
+
+---
 
 ## Requirements
 
