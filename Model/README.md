@@ -12,7 +12,6 @@ Python 3.10+
 Dependencies:
 
 ```
-pprint
 faiss
 numpy
 FlagEmbedding (includes BGEM3FlagModel and FlagReranker)
